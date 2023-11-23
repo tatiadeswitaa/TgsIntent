@@ -1023,6 +1023,6 @@ Tambahkan code berikut pada bagian application agar set alarm dapat berjalan :
 </activity>
 Hasil Run
 Berikut adalah hasil running dari aplikasi yang telah saya buat :
- video_20231119_175150_edit.2.mp4 
+ https://github.com/tatiadeswitaa/TgsIntent/assets/129940568/a372d368-bcd1-46c0-94ca-55686be6375b
 
 Sekian, Terima kasih
